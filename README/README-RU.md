@@ -6,14 +6,14 @@ Readme на других языках:
 Этот репозиторий содержит сценарии Automator, которые помогут вам открывать файлы или папки в нужном вам приложении без запуска самого приложения. Просто воспользуйтесь быстрым действием в меню файла Finder.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Images/RU/Finder-example-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Images/RU/Finder-example.png">
-  <img width="50%" style="margin: 0 auto" alt="An example of what the script does" src="./Images/RU/Finder-example.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/../../raw/main/Images/RU/Finder-example-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/../../raw/main/Images/RU/Finder-example-dark.png">
+  <img width="50%" style="margin: 0 auto" alt="An example of what the script does" src="/../../raw/main/Images/RU/Finder-example.png">
 </picture>
 
 ## VS Code:
 Чтобы открыть ваши файлы или каталоги в VS Code (Microsoft Visual Studio Code):
-* [Загрузите скрипт](https://github.com/user1man/OpenWithAutomator/raw/main/Open%20in%20Fork.zip)
+* [Загрузите скрипт](/../../raw/main/Open%20in%20Fork.zip)
 * Распакуйте архив
 * Запустите файл из Zip
 
@@ -23,12 +23,12 @@ Readme на других языках:
 [Fork](https://fork.dev) - это простой и понятный в использовании графический интерфейс для Git. Чтобы включить поддержку скриптов, перейдите в Настройки. Установите **Fork CLI** на вкладке *Integration* настроек в нижней части страницы.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Images/Fork-cli-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Images/Fork-cli.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/../../raw/main/Images/Fork-cli-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/../../raw/main/Images/Fork-cli.png">
   <img width="50%" alt="Fork settings UI. Integration tab" src="./Images/Fork-cli.png">
 </picture>
 
-[Скачайте](https://github.com/user1man/OpenWithAutomator/raw/main/Open%20in%20Fork.zip), распакуйте архив, запустите и сохраните скрипт.
+[Скачайте](/../../raw/main/Open%20in%20Fork.zip), распакуйте архив, запустите и сохраните скрипт.
 
 ## Удаление и изменение
 Все скрипты сохраняются по следующему пути:
@@ -56,4 +56,4 @@ done
 - Поменяйте «Передать входные данные» на «как аргументы» 
 - Вставьте ваш скрипт
 - Сохраните под нужным вам названием
-Спасибо @tonysneed за [инструкцию](https://gist.github.com/tonysneed/f9f09bfa28bcf98e8d8306f9b21f99e2)
+Спасибо [tonysneed](https://github.com/tonysneed) за [инструкцию](https://gist.github.com/tonysneed/f9f09bfa28bcf98e8d8306f9b21f99e2)
