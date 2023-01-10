@@ -6,8 +6,8 @@ Readme in other languages:
 This repository contains Automator scripts to help you open files or folders in the application you need without running the application. Simply use the serives in the Finder file menu.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Images/RU/Finder-example-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Images/RU/Finder-example.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/../../raw/main/Images/RU/Finder-example-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/../../raw/main/Images/RU/Finder-example.png">
   <img width="50%" alt="An example of what the script does" src="./Images/RU/Finder-example.png">
 </picture>
 
@@ -23,8 +23,8 @@ You don't need to take any additional actions to use the script.
 [Fork](https://fork.dev) is a simple and easy-to-use GUI for Git. To enable script support, go to Fork settings. Install **Fork CLI** in the *Integration* tab of settings at the bottom of the page.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Images/Fork-cli-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Images/Fork-cli.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/../../raw/main/Images/Fork-cli-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/../../raw/main/Images/Fork-cli.png">
   <img width="50%" alt="Fork settings UI. Integration tab" src="./Images/Fork-cli.png">
 </picture>
 
