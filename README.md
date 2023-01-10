@@ -13,7 +13,7 @@ This repository contains Automator scripts to help you open files or folders in 
 
 ## VS Code:
 To open your files or programs in VS Code (Microsoft Visual Studio Code): 
-* [Download the script](https://github.com/user1man/OpenWithAutomator/raw/main/Open%20in%20Fork.zip)
+* [Download the script](/../../raw/main/Open%20in%20Fork.zip)
 * Unzip downloaded file
 * Run unziped file
 
@@ -28,7 +28,7 @@ You don't need to take any additional actions to use the script.
   <img width="50%" alt="Fork settings UI. Integration tab" src="./Images/Fork-cli.png">
 </picture>
 
-[Download](https://github.com/user1man/OpenWithAutomator/raw/main/Open%20in%20Fork.zip), unpack and run the script.
+[Download](/../../raw/main/Open%20in%20Fork.zip), unpack and run the script.
 
 ## Uninstall and editing
 All sevices are installed in the following path:
